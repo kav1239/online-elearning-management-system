@@ -14,4 +14,3 @@ We believe in the power of technology to democratize education and make learning
 Join us in shaping the future of education by collaborating on this e-learning management system. Your expertise in development, design, and educational technology can help us empower learners worldwide, providing them with the tools and resources they need to succeed in a digital age.
 
 Together, let's transform education and create a more inclusive, interactive, and impactful learning experience. Welcome to our online e-learning management system on GitHub! 🎓💻🌍
-
